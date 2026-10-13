@@ -1,211 +1,164 @@
-Personal Projects Portfolio
+# Personal Projects Portfolio
 
-Hi, I’m Junior Mabele 👋
+Hi, I’m **Junior Mabele** 👋
 
-🎓 Software Engineering Student
-💻 Junior Full-Stack Developer
+🎓 Software Engineering Student  
+💻 Junior Full-Stack Developer  
 🚀 Interested in building practical, user-focused software
 
 I enjoy turning real-world problems into functional applications using frontend development, backend APIs, desktop applications, cloud-ready services, and database design.
 
-🚀 Featured Projects
+## 🚀 Featured Projects
 
-1. DeskFlow — IT Helpdesk Ticketing System
+### 1. DeskFlow — IT Helpdesk Ticketing System
 
 An internal support dashboard for managing service requests, priorities, assignments, and ticket statuses.
 
-Technologies: HTML, CSS, JavaScript, Bootstrap, localStorage
+**Technologies:** HTML, CSS, JavaScript, Bootstrap, localStorage
 
-Created ticket lifecycle management
+- Created ticket lifecycle management
+- Added priority filtering and staff assignment
+- Built dashboard metrics for support operations
+- Designed a custom dark command-centre interface
 
-Added priority filtering and staff assignment
+[View Project](./DeskFlow-IT-Helpdesk)
 
-Built dashboard metrics for support operations
+---
 
-Designed a custom dark command-centre interface
-
-View Project
-
-2. StockPilot — Inventory Control System
+### 2. StockPilot — Inventory Control System
 
 An inventory dashboard that helps businesses monitor products, stock levels, reorder thresholds, and inventory value.
 
-Technologies: HTML, CSS, JavaScript, Bootstrap, localStorage
+**Technologies:** HTML, CSS, JavaScript, Bootstrap, localStorage
 
-Added SKU and category management
+- Added SKU and category management
+- Implemented low-stock and out-of-stock alerts
+- Added inventory valuation calculations
+- Added quick stock adjustments
 
-Implemented low-stock and out-of-stock alerts
+[View Project](./StockPilot-Inventory-Control)
 
-Added inventory valuation calculations
+---
 
-Added quick stock adjustments
-
-View Project
-
-3. OrbitBoard — Project Management Kanban Board
+### 3. OrbitBoard — Project Management Kanban Board
 
 A project management workspace for organising tasks through Backlog, In Progress, Review, and Completed stages.
 
-Technologies: HTML, CSS, JavaScript, Bootstrap, localStorage
+**Technologies:** HTML, CSS, JavaScript, Bootstrap, localStorage
 
-Added drag-and-drop task movement
+- Added drag-and-drop task movement
+- Implemented owners, priorities, and due dates
+- Created progress metrics
+- Added persistent browser storage
 
-Implemented owners, priorities, and due dates
+[View Project](./OrbitBoard-Project-Management)
 
-Created progress metrics
+---
 
-Added persistent browser storage
-
-View Project
-
-4. CareerGrid — Job Application Tracker
+### 4. CareerGrid — Job Application Tracker
 
 An opportunity pipeline for managing companies, roles, application stages, recruiter contacts, and follow-up dates.
 
-Technologies: HTML, CSS, JavaScript, Bootstrap, localStorage
+**Technologies:** HTML, CSS, JavaScript, Bootstrap, localStorage
 
-Added application stage tracking
+- Added application stage tracking
+- Implemented filtering and searching
+- Added interview and follow-up management
+- Created application performance metrics
 
-Implemented filtering and searching
+[View Project](./CareerGrid-Job-Application-Tracker)
 
-Added interview and follow-up management
+---
 
-Created application performance metrics
-
-View Project
-
-5. CampusConnect — Java Course Registration System
+### 5. CampusConnect — Java Course Registration System
 
 A command-line university registration application that helps students search for courses and build conflict-free schedules.
 
-Technologies: Java, Java Collections, Streams, Records
+**Technologies:** Java, Java Collections, Streams, Records
 
-Added course searching
+- Added course searching
+- Implemented registration capacity validation
+- Prevented duplicate registrations
+- Added timetable conflict detection
 
-Implemented registration capacity validation
+[View Project](./CampusConnect-Java-Course-Registration)
 
-Prevented duplicate registrations
+---
 
-Added timetable conflict detection
-
-View Project
-
-6. Ledgerly — C++ Personal Finance Manager
+### 6. Ledgerly — C++ Personal Finance Manager
 
 A command-line finance application for recording income and expenses, calculating balances, and analysing spending by category.
 
-Technologies: C++, file handling, CSV, STL
+**Technologies:** C++, file handling, CSV, STL
 
-Added income and expense tracking
+- Added income and expense tracking
+- Implemented CSV file persistence
+- Added balance calculations
+- Created spending summaries by category
 
-Implemented CSV file persistence
+[View Project](./Ledgerly-CPP-Budget-Manager)
 
-Added balance calculations
+## 🧩 Additional Projects
 
-Created spending summaries by category
+- [PulseOps — Blazor Service Analytics Dashboard](./PulseOps-Blazor-Service-Analytics)
+- [CollabHub — Node.js Team Collaboration API](./CollabHub-Node-API)
+- [NexusOps — React and TypeScript Dashboard](./NexusOps-React-TypeScript)
+- [AssetBooking — ASP.NET Core API](./AssetBooking-ASPNet-API)
+- [Support Operations — SQL Server Database](./SupportOperations-SQL-Database)
 
-View Project
+## 🛠️ Technologies
 
-🧩 Additional Projects
+### Languages
 
-PulseOps — Blazor Service Analytics Dashboard
+- JavaScript
+- TypeScript
+- Java
+- C#
+- C++
+- SQL
 
-CollabHub — Node.js Team Collaboration API
+### Frameworks and Tools
 
-NexusOps — React and TypeScript Dashboard
+- React
+- Node.js
+- Express
+- ASP.NET Core
+- Blazor
+- Bootstrap
+- Vite
+- Swagger/OpenAPI
+- Git and GitHub
 
-AssetBooking — ASP.NET Core API
+### Concepts
 
-Support Operations — SQL Server Database
+- Object-oriented programming
+- REST APIs
+- Component-based development
+- CRUD operations
+- Form validation
+- State management
+- File persistence
+- Relational database design
+- API documentation
+- Responsive interface design
 
-🛠️ Technologies
+## 📚 Currently Improving
 
-Languages
+- Database integration with SQL Server and MongoDB
+- Automated testing
+- Authentication and authorisation
+- TypeScript development
+- Docker and deployment
+- API architecture and security
 
-JavaScript
-
-TypeScript
-
-Java
-
-C#
-
-C++
-
-SQL
-
-Frameworks and Tools
-
-React
-
-Node.js
-
-Express
-
-ASP.NET Core
-
-Blazor
-
-Bootstrap
-
-Vite
-
-Swagger/OpenAPI
-
-Git and GitHub
-
-Concepts
-
-Object-oriented programming
-
-REST APIs
-
-Component-based development
-
-CRUD operations
-
-Form validation
-
-State management
-
-File persistence
-
-Relational database design
-
-API documentation
-
-Responsive interface design
-
-📚 Currently Improving
-
-Database integration with SQL Server and MongoDB
-
-Automated testing
-
-Authentication and authorisation
-
-TypeScript development
-
-Docker and deployment
-
-API architecture and security
-
-🎯 Development Approach
+## 🎯 Development Approach
 
 I follow a practical development process:
 
-Understand the problem
-
-Plan the solution
-
-Design the user experience
-
-Build the application
-
-Test the important workflows
-
-Document the project
-
-Improve based on feedback
-
-Design it. Plan it. Code it. Ship it.
+1. Understand the problem
+2. Plan the solution
+3. Design the user experience
+4. Build the application
+5. Test the important workflows
+6. Document the project
+7. Improve based on feedback
