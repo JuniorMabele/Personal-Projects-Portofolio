@@ -1,73 +1,211 @@
-# Personal-Projects-Portofolio
+Personal Projects Portfolio
 
-Hi there! 👋 I'm Junior
-🎓 Third-Year Software Engineering Student | Full-Stack Developer
-I'm a passionate third-year software engineering student who loves building clean, functional applications from concept to deployment. I enjoy turning ideas into reality through code, from wireframes in Figma to fully deployed web apps.
+Hi, I’m Junior Mabele 👋
+
+🎓 Software Engineering Student
+💻 Junior Full-Stack Developer
+🚀 Interested in building practical, user-focused software
+
+I enjoy turning real-world problems into functional applications using frontend development, backend APIs, desktop applications, cloud-ready services, and database design.
 
 🚀 Featured Projects
-📌 [Project Name 1] — Full-Stack Web App
-A [brief description — e.g., task management app / e-commerce platform / student portal]
 
-Tech: React • Node.js • MySQL • Figma
+1. DeskFlow — IT Helpdesk Ticketing System
 
-Designed UI/UX wireframes in Figma before development
+An internal support dashboard for managing service requests, priorities, assignments, and ticket statuses.
 
-Built RESTful API with Node.js/Express
+Technologies: HTML, CSS, JavaScript, Bootstrap, localStorage
 
-Designed normalized ERD and managed MySQL database
+Created ticket lifecycle management
 
-Deployed responsive React frontend
+Added priority filtering and staff assignment
 
-🔗 Live Demo | 📂 Repository
+Built dashboard metrics for support operations
 
-📌 [Project Name 2] — Python/Java Application
-A [brief description — e.g., inventory system / algorithm visualizer / data processor]
+Designed a custom dark command-centre interface
 
-Tech: Python • Java • MySQL
+View Project
 
-Wrote pseudocode to plan logic before implementation
+2. StockPilot — Inventory Control System
 
-Applied OOP principles in Java
+An inventory dashboard that helps businesses monitor products, stock levels, reorder thresholds, and inventory value.
 
-Automated data processing with Python
+Technologies: HTML, CSS, JavaScript, Bootstrap, localStorage
 
-🔗 Repository
+Added SKU and category management
 
-📌 [Project Name 3] — Frontend React App
-A [brief description — e.g., weather dashboard / portfolio site / recipe finder]
+Implemented low-stock and out-of-stock alerts
 
-Tech: React • JavaScript • CSS • Figma
+Added inventory valuation calculations
 
-Component-based architecture with reusable React components
+Added quick stock adjustments
 
-Responsive design with modern CSS
+View Project
 
-State management with hooks
+3. OrbitBoard — Project Management Kanban Board
 
-🔗 Live Demo | 📂 Repository
+A project management workspace for organising tasks through Backlog, In Progress, Review, and Completed stages.
 
-🎯 Skills Snapshot
-Skill	Level
-React	⭐⭐⭐⭐
-JavaScript	⭐⭐⭐⭐
-HTML/CSS	⭐⭐⭐⭐
-Node.js	⭐⭐⭐
-MySQL	⭐⭐⭐⭐
-Python	⭐⭐⭐
-Java	⭐⭐⭐
-Figma / UI Design	⭐⭐⭐⭐
-ERD Design	⭐⭐⭐⭐
-Git & Version Control	⭐⭐⭐⭐
-Pseudocode & Logic Design	⭐⭐⭐⭐
-📚 Currently Learning
-Advanced React patterns (Context API, Redux)
+Technologies: HTML, CSS, JavaScript, Bootstrap, localStorage
 
-RESTful API best practices
+Added drag-and-drop task movement
 
-Database optimization & indexing
+Implemented owners, priorities, and due dates
+
+Created progress metrics
+
+Added persistent browser storage
+
+View Project
+
+4. CareerGrid — Job Application Tracker
+
+An opportunity pipeline for managing companies, roles, application stages, recruiter contacts, and follow-up dates.
+
+Technologies: HTML, CSS, JavaScript, Bootstrap, localStorage
+
+Added application stage tracking
+
+Implemented filtering and searching
+
+Added interview and follow-up management
+
+Created application performance metrics
+
+View Project
+
+5. CampusConnect — Java Course Registration System
+
+A command-line university registration application that helps students search for courses and build conflict-free schedules.
+
+Technologies: Java, Java Collections, Streams, Records
+
+Added course searching
+
+Implemented registration capacity validation
+
+Prevented duplicate registrations
+
+Added timetable conflict detection
+
+View Project
+
+6. Ledgerly — C++ Personal Finance Manager
+
+A command-line finance application for recording income and expenses, calculating balances, and analysing spending by category.
+
+Technologies: C++, file handling, CSV, STL
+
+Added income and expense tracking
+
+Implemented CSV file persistence
+
+Added balance calculations
+
+Created spending summaries by category
+
+View Project
+
+🧩 Additional Projects
+
+PulseOps — Blazor Service Analytics Dashboard
+
+CollabHub — Node.js Team Collaboration API
+
+NexusOps — React and TypeScript Dashboard
+
+AssetBooking — ASP.NET Core API
+
+Support Operations — SQL Server Database
+
+🛠️ Technologies
+
+Languages
+
+JavaScript
 
 TypeScript
 
+Java
 
-⭐️ "Design it. Plan it. Code it. Ship it."
+C#
 
+C++
+
+SQL
+
+Frameworks and Tools
+
+React
+
+Node.js
+
+Express
+
+ASP.NET Core
+
+Blazor
+
+Bootstrap
+
+Vite
+
+Swagger/OpenAPI
+
+Git and GitHub
+
+Concepts
+
+Object-oriented programming
+
+REST APIs
+
+Component-based development
+
+CRUD operations
+
+Form validation
+
+State management
+
+File persistence
+
+Relational database design
+
+API documentation
+
+Responsive interface design
+
+📚 Currently Improving
+
+Database integration with SQL Server and MongoDB
+
+Automated testing
+
+Authentication and authorisation
+
+TypeScript development
+
+Docker and deployment
+
+API architecture and security
+
+🎯 Development Approach
+
+I follow a practical development process:
+
+Understand the problem
+
+Plan the solution
+
+Design the user experience
+
+Build the application
+
+Test the important workflows
+
+Document the project
+
+Improve based on feedback
+
+Design it. Plan it. Code it. Ship it.
