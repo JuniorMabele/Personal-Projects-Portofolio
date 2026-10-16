@@ -1,112 +1,120 @@
 # Personal Projects Portfolio
 
-Hi, I’m **Junior Mabele** 👋
+Hi, I’m Junior Mabele 👋
 
-🎓 Software Engineering Student  
-💻 Junior Full-Stack Developer  
-🚀 Interested in building practical, user-focused software
+I’m a Software Engineering student based in Pretoria, South Africa. I enjoy building practical applications while improving my skills in programming, web development, APIs and databases.
 
-I enjoy turning real-world problems into functional applications using frontend development, backend APIs, desktop applications, cloud-ready services, and database design.
+This repository contains projects I have worked on during my studies and personal development.
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 1. DeskFlow — IT Helpdesk Ticketing System
+### 1. DeskFlow — IT Helpdesk System
 
-An internal support dashboard for managing service requests, priorities, assignments, and ticket statuses.
+A browser-based helpdesk application for recording and managing support tickets.
 
 **Technologies:** HTML, CSS, JavaScript, Bootstrap, localStorage
 
-- Created ticket lifecycle management
-- Added priority filtering and staff assignment
-- Built dashboard metrics for support operations
-- Designed a custom dark command-centre interface
+- Create and update support tickets
+- Assign tickets to staff members
+- Set priorities and track ticket status
+- Filter tickets by different categories
+- View basic support activity
+- Store information in the browser
 
-[View Project](./DeskFlow-IT-Helpdesk)
+[View project](./DeskFlow-IT-Helpdesk)
 
 ---
 
-### 2. StockPilot — Inventory Control System
+### 2. StockPilot — Inventory Management System
 
-An inventory dashboard that helps businesses monitor products, stock levels, reorder thresholds, and inventory value.
+An inventory application for recording products, monitoring stock levels and identifying items that need to be reordered.
 
 **Technologies:** HTML, CSS, JavaScript, Bootstrap, localStorage
 
-- Added SKU and category management
-- Implemented low-stock and out-of-stock alerts
-- Added inventory valuation calculations
-- Added quick stock adjustments
+- Add and update products
+- Manage SKUs and categories
+- Track stock quantities
+- Display low-stock and out-of-stock items
+- Calculate inventory values
+- Make quick stock adjustments
 
-[View Project](./StockPilot-Inventory-Control)
+[View project](./StockPilot-Inventory-Control)
 
 ---
 
-### 3. OrbitBoard — Project Management Kanban Board
+### 3. OrbitBoard — Project Task Board
 
-A project management workspace for organising tasks through Backlog, In Progress, Review, and Completed stages.
+A task-management board for organising work through different stages.
 
 **Technologies:** HTML, CSS, JavaScript, Bootstrap, localStorage
 
-- Added drag-and-drop task movement
-- Implemented owners, priorities, and due dates
-- Created progress metrics
-- Added persistent browser storage
+- Create and manage tasks
+- Move tasks between workflow stages
+- Add owners, priorities and due dates
+- Search and filter tasks
+- View task progress
+- Save tasks using browser storage
 
-[View Project](./OrbitBoard-Project-Management)
+[View project](./OrbitBoard-Project-Management)
 
 ---
 
 ### 4. CareerGrid — Job Application Tracker
 
-An opportunity pipeline for managing companies, roles, application stages, recruiter contacts, and follow-up dates.
+A simple application for keeping track of job opportunities and follow-up activities.
 
 **Technologies:** HTML, CSS, JavaScript, Bootstrap, localStorage
 
-- Added application stage tracking
-- Implemented filtering and searching
-- Added interview and follow-up management
-- Created application performance metrics
+- Record companies and job positions
+- Track application stages
+- Add interview and follow-up dates
+- Search and filter applications
+- Record recruiter information
+- View application progress
 
-[View Project](./CareerGrid-Job-Application-Tracker)
-
----
-
-### 5. CampusConnect — Java Course Registration System
-
-A command-line university registration application that helps students search for courses and build conflict-free schedules.
-
-**Technologies:** Java, Java Collections, Streams, Records
-
-- Added course searching
-- Implemented registration capacity validation
-- Prevented duplicate registrations
-- Added timetable conflict detection
-
-[View Project](./CampusConnect-Java-Course-Registration)
+[View project](./CareerGrid-Job-Application-Tracker)
 
 ---
 
-### 6. Ledgerly — C++ Personal Finance Manager
+### 5. CampusConnect — Course Registration System
 
-A command-line finance application for recording income and expenses, calculating balances, and analysing spending by category.
+A Java command-line application for searching courses and managing student registrations.
 
-**Technologies:** C++, file handling, CSV, STL
+**Technologies:** Java, Collections, Streams, Records
 
-- Added income and expense tracking
-- Implemented CSV file persistence
-- Added balance calculations
-- Created spending summaries by category
+- Search available courses
+- Check registration capacity
+- Prevent duplicate registrations
+- Detect timetable conflicts
+- Manage course selections
 
-[View Project](./Ledgerly-CPP-Budget-Manager)
+[View project](./CampusConnect-Java-Course-Registration)
 
-## 🧩 Additional Projects
+---
 
-- [PulseOps — Blazor Service Analytics Dashboard](./PulseOps-Blazor-Service-Analytics)
-- [CollabHub — Node.js Team Collaboration API](./CollabHub-Node-API)
-- [NexusOps — React and TypeScript Dashboard](./NexusOps-React-TypeScript)
-- [AssetBooking — ASP.NET Core API](./AssetBooking-ASPNet-API)
-- [Support Operations — SQL Server Database](./SupportOperations-SQL-Database)
+### 6. Ledgerly — Personal Finance Manager
 
-## 🛠️ Technologies
+A C++ command-line application for recording income and expenses.
+
+**Technologies:** C++, STL, CSV file handling
+
+- Record income and expenses
+- Calculate account balances
+- Group spending by category
+- Save information to a CSV file
+- Display basic spending summaries
+
+[View project](./Ledgerly-CPP-Budget-Manager)
+
+## Other Projects
+
+- [PulseOps — Service Analytics Dashboard](./PulseOps-Blazor-Service-Analytics)
+- [CollabHub — Team Collaboration API](./CollabHub-Node-API)
+- [NexusOps — Support Dashboard](./NexusOps-React-TypeScript)
+- [AssetBooking — Asset Booking API](./AssetBooking-ASPNet-API)
+- [Support Operations — SQL Database](./SupportOperations-SQL-Database)
+
+## Skills and Technologies
 
 ### Languages
 
@@ -129,36 +137,44 @@ A command-line finance application for recording income and expenses, calculatin
 - Swagger/OpenAPI
 - Git and GitHub
 
-### Concepts
+### Areas I Practise
 
 - Object-oriented programming
 - REST APIs
-- Component-based development
-- CRUD operations
+- CRUD applications
 - Form validation
 - State management
-- File persistence
-- Relational database design
+- File handling
+- Database design
+- SQL queries
+- Responsive web interfaces
 - API documentation
-- Responsive interface design
 
-## 📚 Currently Improving
+## Currently Learning
 
-- Database integration with SQL Server and MongoDB
+- SQL Server and MongoDB
 - Automated testing
 - Authentication and authorisation
-- TypeScript development
-- Docker and deployment
-- API architecture and security
+- TypeScript
+- Docker
+- Deployment
+- API security
 
-## 🎯 Development Approach
+## My Approach
 
-I follow a practical development process:
+I usually start by understanding the problem, planning the main features and then building the application step by step.
 
-1. Understand the problem
-2. Plan the solution
-3. Design the user experience
-4. Build the application
-5. Test the important workflows
-6. Document the project
-7. Improve based on feedback
+While working on a project, I focus on:
+
+- Writing understandable code
+- Testing the main functions
+- Improving the user interface
+- Fixing issues as I find them
+- Documenting what I have built
+- Learning from feedback
+
+## Contact
+
+- Email: mabelelesedi@gmail.com
+- Location: Pretoria, South Africa
+- GitHub: [JuniorMabele](https://github.com/JuniorMabele)
