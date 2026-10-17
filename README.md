@@ -1,6 +1,6 @@
 # Personal Projects Portfolio
 
-Hi, I’m Junior Mabele 👋
+Hi, I’m Junior Mabele 
 
 I’m a Software Engineering student based in Pretoria, South Africa. I enjoy building practical applications while improving my skills in programming, web development, APIs and databases.
 
